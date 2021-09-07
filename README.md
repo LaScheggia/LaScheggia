@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LaScheggia
 - 👀 I’m interested in skeet shooting, skeet shooting and skeet shooting. Do I have to repeat? I also love fast, sporty cars and the old but always gold JDMs. 
 - 🌱 I’m currently learning how to become a FullStackDeveloper and how to drink less caffeine. Both are work in progress
-- 💞️ I’m looking to collaborate on we'll see about that in the future..
 - 📫 How to reach me: here, Facebook, LinkedIn and instagram are always the answer. 
 
 <!---

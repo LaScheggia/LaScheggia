@@ -14,7 +14,7 @@ In August I completed my Bootcamp :books: with __Boolean Careers__ and now I'm :
 While I'm on the lookout for a nice job, I'm still studying and improving what I learnt during my Bootcamp.
 
 
-## :eyeglasses: What I learned during Boolean Bootcamp?
+## :eyeglasses: What I learnt during Boolean Bootcamp?
 All the skills and stacks to create webapps and webpages. 
 
 ### :heavy_check_mark: These are the tools: 

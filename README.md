@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # :wave: Hello everybody! My name is :hibiscus: *Donata* :hibiscus:.
-### I'm a Jr Full Stack Developer based in Italy near *Milan*! :city_sunrise:
-### In August I completed my Bootcamp :books: with __Boolean Careers__ and now I'm :eyes: to find a nice place to learn and become a better developer. :computer:
+I'm a Jr Full Stack Developer based in Italy near *Milan*! :city_sunrise:
+In August I completed my Bootcamp :books: with __Boolean Careers__ and now I'm :eyes: to find a nice place to learn and become a better developer. :computer:
 
 ## What I'm doing now? 
 While I'm on the lookout for a nice job, I'm still studying and improving what I learnt during my Bootcamp.

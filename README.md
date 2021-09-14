@@ -30,4 +30,7 @@ I'm a gamer :video_game: and I spend all night playing League.
 
 I'm also a car passionate :oncoming_automobile: and I love fast and sporty cars but my :heart: belongs to old JDMs :jp:.
 
+I really love nice flowers :bouquet: and my dream is tho watch :cherry_blossom: cherry blossoms :cherry_blossom: in Japan one day.
+
+One day I hope to be at least half a good developer as my soulmate :boy: who I admire a lot. (Also I'd hope all the seniors had the patience and will to teach as him). 
 

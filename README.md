@@ -1,4 +1,4 @@
-![resized](https://user-images.githubusercontent.com/65655477/133240389-bdbf09b6-d8ee-4fb0-a375-621e12af9d78.jpg)
+![Donata icon M2(1)](https://user-images.githubusercontent.com/65655477/133240454-07a32cf9-f5c5-4bfe-9e4e-8cb70b3d6009.jpg)
 
 
 - 👋 Hi, I’m @LaScheggia

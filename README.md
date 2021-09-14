@@ -26,11 +26,18 @@ All the skills and stacks to create webapps and webpages.
 ## Something more about me: 
 I'm a former foreign language student who had enough with languages and somehow finished to still studying languaes. :notebook: :notebook_with_decorative_cover:
 
+In my free time I'm a skeet and heliche shooter :gun: and a pole dancer. :dancer:
+
 I'm a gamer :video_game: and I spend all night playing League. 
 
 I'm also a car passionate :oncoming_automobile: and I love fast and sporty cars but my :heart: belongs to old JDMs :jp:.
 
 I really love nice flowers :bouquet: and my dream is to watch :cherry_blossom: cherry blossoms :cherry_blossom: in Japan one day.
 
+I love :cat2: but also :dog2: and I'd love someday to have a Samoyed. 
+
+I'm a :coffee: person and I can't live without it. 
+
+:pizza:, :fries:, :beer: are some other things I can't live without.
 
 

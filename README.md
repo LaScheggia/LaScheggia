@@ -1,4 +1,4 @@
-![SCHEGGIA Primo Piano  JPEG](https://user-images.githubusercontent.com/65655477/133240156-e3e848c9-f542-4c67-9664-784c92f8b142.jpg)
+![resized](https://user-images.githubusercontent.com/65655477/133240389-bdbf09b6-d8ee-4fb0-a375-621e12af9d78.jpg)
 
 
 - 👋 Hi, I’m @LaScheggia

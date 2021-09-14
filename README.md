@@ -1,4 +1,5 @@
-![Donata icon M2(1)](https://user-images.githubusercontent.com/65655477/133239307-f0df6eab-874c-471c-b41e-5bae54ab09ff.jpg)
+![SCHEGGIA Primo Piano  JPEG](https://user-images.githubusercontent.com/65655477/133240156-e3e848c9-f542-4c67-9664-784c92f8b142.jpg)
+
 
 - 👋 Hi, I’m @LaScheggia
 - 👀 I’m interested in skeet shooting, skeet shooting and skeet shooting. Do I have to repeat? I also love fast, sporty cars and the old but always gold JDMs. 

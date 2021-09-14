@@ -1,4 +1,5 @@
-![Donata icon M2](https://user-images.githubusercontent.com/65655477/133238650-fb4d3a27-474e-488d-8f7d-1a472b8a007b.jpg)
+![Donata icon M2(1)](https://user-images.githubusercontent.com/65655477/133239307-f0df6eab-874c-471c-b41e-5bae54ab09ff.jpg)
+
 - 👋 Hi, I’m @LaScheggia
 - 👀 I’m interested in skeet shooting, skeet shooting and skeet shooting. Do I have to repeat? I also love fast, sporty cars and the old but always gold JDMs. 
 - 🌱 I’m currently learning how to become a FullStackDeveloper and how to drink less caffeine. Both are work in progress

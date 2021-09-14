@@ -41,7 +41,7 @@ I'm a :coffee: person and I can't live without it.
 
 I'm a :sagittarius: and I was born on 25/11.
 
-# Some quotes I live up to
+# :zap: Some quotes I live up to :snowflake:
 **Dr. Toshiya Joushima once said**
 > *If you aren't continuously looking up and putting in the effort, 
 > you can't reach the next level.*

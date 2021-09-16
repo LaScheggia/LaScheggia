@@ -1,4 +1,5 @@
-![photo_2021-09-16_12-12-28](https://user-images.githubusercontent.com/65655477/133594530-cf8ff980-8335-4fe4-989f-4ec4d0839b18.jpg)
+![photo_2021-09-16_12-33-03](https://user-images.githubusercontent.com/65655477/133597384-ecfa42d7-3b25-4a28-9b89-8e14903c84c2.jpg)
+
 
 
 <!---

@@ -1,4 +1,5 @@
-![Donata icon M2(1)](https://user-images.githubusercontent.com/65655477/133240454-07a32cf9-f5c5-4bfe-9e4e-8cb70b3d6009.jpg)
+![photo_2021-09-16_12-12-28](https://user-images.githubusercontent.com/65655477/133594530-cf8ff980-8335-4fe4-989f-4ec4d0839b18.jpg)
+
 
 <!---
 LaScheggia/LaScheggia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

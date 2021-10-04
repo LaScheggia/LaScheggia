@@ -1,6 +1,4 @@
-![photo_2021-09-16_12-33-03](https://user-images.githubusercontent.com/65655477/133597384-ecfa42d7-3b25-4a28-9b89-8e14903c84c2.jpg)
-
-
+![photo_2021-10-04_17-36-54](https://user-images.githubusercontent.com/65655477/135880990-0f2445e7-d507-4c4a-8f96-bef8d9b0a1f5.jpg)
 
 <!---
 LaScheggia/LaScheggia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

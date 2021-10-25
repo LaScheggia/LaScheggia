@@ -6,15 +6,20 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # :wave: Hello everybody! My name is :hibiscus: *Donata* :hibiscus:.
-I'm a Jr Full Stack Developer based in Italy near *Milan*! :city_sunrise:
+I'm a Jr software integrator based in Italy near *Milan*! :city_sunrise:
 
-In August I completed my Bootcamp :books: with __Boolean Careers__ and now I'm :eyes: to find a nice place to learn and become a better developer. :computer:
+I started working in late October for COGEN spa and I'm :eyes: trying to become a better developer. :computer:
+
+In August I completed my Bootcamp :books: with __Boolean Careers__ which led me to become a full stack web developer.
 
 ## :round_pushpin: What I'm doing now:grey_question: 
-While I'm on the lookout for a nice job, I'm still studying and improving what I learnt during my Bootcamp.
+I'm working as a software integrator for COGEN spa, located in Molinetto (BS). :woman_technologist:
+
+## :notebook_with_decorative_cover: What I'm learning right now:grey_question: 
+I'm improving my node.js skills and how to integrate various software. And some other things.. :octocat::octocat:
 
 
-## :eyeglasses: What I learnt during Boolean Bootcamp:grey_question:
+## :books: What I learnt during Boolean Bootcamp:grey_question:
 All the skills and stacks to create webapps and webpages. :octocat::octocat:
 
 ### :heavy_check_mark: These are the tools: 

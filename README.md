@@ -6,18 +6,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # :wave: Hello everybody! My name is :hibiscus: *Donata* :hibiscus:.
-I'm a Jr software integrator based in Italy near *Milan*! :city_sunrise:
+I'm a Jr __frontend developer__ based in Italy near *Milan*! :city_sunrise:
 
-I started working in late October for COGEN spa and I'm :eyes: trying to become a better developer. :computer:
+I started an internship as a frontend developer @ **Red Software Systems** in Monza later this January (2022). :red_circle::red_circle:
+
+I worked for COGEN spa in the last quarter of 2021. :computer:
 
 In August I completed my Bootcamp :books: with __Boolean Careers__ which led me to become a full stack web developer.
 
 ## :round_pushpin: What I'm doing now:grey_question: 
-I'm working as a software integrator for COGEN spa, located in Molinetto (BS). :woman_technologist:
+I'm studiyng frontend development techniques as part of my internship. :woman_technologist:
 
 ## :notebook_with_decorative_cover: What I'm learning right now:grey_question: 
-I'm improving my node.js skills and how to integrate various software. And some other things.. :octocat::octocat:
-
+Some very nice things regarding FE :octocat::octocat:
 
 ## :books: What I learnt during Boolean Bootcamp:grey_question:
 All the skills and stacks to create webapps and webpages. :octocat::octocat:
@@ -28,9 +29,9 @@ All the skills and stacks to create webapps and webpages. :octocat::octocat:
 # :sparkles: Something more about me :sparkles: 
 I'm a former foreign language student who had enough with languages and somehow finished to still studying languages. :notebook: :notebook_with_decorative_cover:
 
-I speak :gb:, :fr:, :es: and a bit of :ru:.
+I speak :gb:, :fr: and :es:
 
-In my free time I'm a skeet and heliche shooter :gun: and a pole dancer. :dancer:
+In my free time I'm a skeet and heliche shooter :gun: and an aerialist (pole dance and silks) :dancer:
 
 I'm a gamer :video_game: and I spend all night playing League. :boom:
 

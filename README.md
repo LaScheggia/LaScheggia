@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 # :wave: Hello everybody! My name is :hibiscus: *Donata* :hibiscus:.
 I'm a Jr __frontend developer__ based in Italy near *Milan*! :city_sunrise:
 
+I'm working @ Luna Labs in Milan. :moon:
+
 I did an internship as a frontend developer @ **Red Software Systems** in Monza from January to June 2022. :red_circle::red_circle:
 
 I worked for COGEN spa in the last quarter of 2021. :computer:
